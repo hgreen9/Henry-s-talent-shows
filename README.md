@@ -1,2 +1,2 @@
 # Voting Page For Seth's Talent Show
-<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=J87rSX6hkE-ARGYMBpaKmz5iML0jHLBNmpZy3xOgcepUODdLV1cyNk05QzlKMVBUMVNDUlBPTEhCSS4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=J87rSX6hkE-ARGYMBpaKmz5iML0jHLBNmpZy3xOgcepUODdLV1cyNk05QzlKMVBUMVNDUlBPTEhCSS4u" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
