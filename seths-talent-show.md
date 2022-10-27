@@ -1,5 +1,5 @@
 # Voting For Seth's Talent Show
-Email assistance@henrygtalentshow.ml if you have any questions and send your entries to entries@henrygtalentshows.ml. Email enquiries@henrygtalentshows.ml to have a talent show of your own or go to https://henrygtalentshows.ml/host
+Email assistance@henrygtalentshow.ml if you have any questions and send your entries to entries@henrygtalentshows.ml. Want a talent show of your own? go to https://henrygtalentshows.ml/host
 <iframe
     width="640"
     height="480"
