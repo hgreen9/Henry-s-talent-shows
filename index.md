@@ -1,4 +1,4 @@
-#ERROR 404: PAGE NOT FOUND
+# ERROR 404: PAGE NOT FOUND
 Hmmm, it seems you have come to the wrong Page.
 How about you click [here](https://henrygtalentshows.ml/seths-talent-show) to vote for your favourite?
 Or maybe email entries@henrygtalentshows.ml to enter a talent show,
